@@ -1,0 +1,13 @@
+C:\Users\student\Documents\Test1\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.exe
+C:\Users\student\Documents\Test1\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.deps.json
+C:\Users\student\Documents\Test1\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.runtimeconfig.json
+C:\Users\student\Documents\Test1\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.runtimeconfig.dev.json
+C:\Users\student\Documents\Test1\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.dll
+C:\Users\student\Documents\Test1\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.pdb
+C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.csprojAssemblyReference.cache
+C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.AssemblyInfoInputs.cache
+C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.AssemblyInfo.cs
+C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.dll
+C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.pdb
+C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.genruntimeconfig.cache
