@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tzXQm8BuqHMhznt/gTZBAqtLc60G0Z8aFIvaG8MicvPlA4fF+gjbgUUa7Xp2pkqmccOoZUq3AOtTA8LJd2WSbQ==",
+  "dgSpecHash": "zWZ7+gHQh7reZkRRPwJaSJo1KN8c4CKt3aGWUBRTLmHLdTUmwHvo+9MRQwZ+YG+veY70hoNan0SgeA0I/Gl0Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\student\\Documents\\Test1\\Repo111022\\Work12\\Work12.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\chang\\Desktop\\ВСГУТУ\\Геометрия и топология 2\\Lab\\Repo111022\\Work12\\Work12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chang\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\chang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\chang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\chang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
   "logs": []
 }

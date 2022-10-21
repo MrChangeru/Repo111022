@@ -11,3 +11,17 @@ C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work1
 C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.dll
 C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.pdb
 C:\Users\student\Documents\Test1\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.genruntimeconfig.cache
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.exe
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.deps.json
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.runtimeconfig.json
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.runtimeconfig.dev.json
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.dll
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\bin\Debug\netcoreapp3.1\Work12.pdb
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.csproj.AssemblyReference.cache
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.AssemblyInfoInputs.cache
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.AssemblyInfo.cs
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.csproj.CoreCompileInputs.cache
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.dll
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.pdb
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\Lab\Repo111022\Work12\obj\Debug\netcoreapp3.1\Work12.genruntimeconfig.cache
